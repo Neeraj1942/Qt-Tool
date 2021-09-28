@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>icons/new.jfif</file>
+        <file>icons/exit.jfif</file>
+        <file>icons/open.svg</file>
+    </qresource>
+</RCC>
